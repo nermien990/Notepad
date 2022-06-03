@@ -99,10 +99,6 @@ namespace Notebad
             nowords.Text = rtb.Text.Count().ToString();
         }
 
-        private void CM(object sender, EventArgs e)
-        {
-
-        }
 
         private void ExitEventHandler(object sender, EventArgs e)
         {

@@ -420,7 +420,6 @@
             this.pasteToolStripMenuItem1});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(181, 92);
-            this.contextMenuStrip1.Click += new System.EventHandler(this.CM);
             // 
             // cutToolStripMenuItem1
             // 
